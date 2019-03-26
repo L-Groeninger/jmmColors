@@ -1,0 +1,15 @@
+Package: jmmColors
+Type: Package
+Title: Color Palette for corporate JMM colors
+Version: 0.1.1
+Author: Lukas Gröninger
+Maintainer: Lukas Gröninger <lukas.groeninger@gmail.com>
+Description: Creates the possibility of using the JobMatchMe corporate colors when creating
+    graphs and doing data visualization.
+Imports:
+    ggplot2,
+    grDevices
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
